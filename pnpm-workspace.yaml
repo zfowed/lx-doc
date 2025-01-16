@@ -1,0 +1,11 @@
+packages: 
+  - 'bpmn'
+  - 'doc'
+  - 'flowchart'
+  - 'markdown'
+  - 'mind-map'
+  - 'note'
+  - 'ppt'
+  - 'sheet'
+  - 'whiteboard'
+  - 'workbench'

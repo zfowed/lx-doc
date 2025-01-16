@@ -1,0 +1,12 @@
+{
+  "name": "lx-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "pnpm -r --filter !flowchart run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
